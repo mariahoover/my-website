@@ -4,5 +4,3 @@ This is a really awesome website
 
 updates made on master on GitHub before rebase
 
-## Repository Purpose
-Updates made locally for a conflict
